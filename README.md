@@ -1,3 +1,3 @@
 # Belajar Git Hub
 
-belajar membuat branch
+belajar website menggunakan git hub melalui vscode
