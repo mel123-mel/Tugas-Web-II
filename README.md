@@ -1,3 +1,3 @@
 # Belajar Git Hub
 
-membuat repository di situs git hub
+membuat codingan webside
